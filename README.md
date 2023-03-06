@@ -16,8 +16,8 @@
 | Nest.Js | Angular.JS | DyanamoDB | Jest |
 | Typescript | Typescript | GraphQL | Rspec |
 | Ruby on Rails | Vue.JS | Redis | Minitest |
-| Python (Django) | | Memcachce | Cucumber |
-| Python (Flask) | | Aurora | Cypress |
+| Python (Django) | D3.Js | Memcachce | Cucumber |
+| Python (Flask) | ReCharts | Aurora | Cypress |
 
 ## Certified AWS Cloud Practioner (Aiming to get **Professional** level certifications by this year end)
 
@@ -29,7 +29,9 @@
 
 
 ## 🔭 I’m currently working on 
-  - IIOT and Factory Management application 
+  - IIOT and Factory Management Application 
+    - Micro-services in JS, ROR and Python
+    - Micro Front-end Architecture
   - [Link](https://demo.thingsgosocial.com/Enquire?eID=n234) for Demo
   
 ## 🌱 I’m currently learning
