@@ -22,7 +22,7 @@
 ## Certified AWS Cloud Practioner (Aiming to get **Professional** level certifications by this year end)
 
 - Basics (EC2 + Load Balancer + S3 + Route53 + Certificate Manager)
-- Databases ( PostgreSQL + MySQL + MongoDB + DynamoDB, Aurora )
+- Databases ( PostgreSQL + MySQL + MongoDB + DynamoDB + Aurora )
 - In-Progress (Kafka + Step Function + Lambda)
 - Infrastructure ( ECS + Dockerization + CI/CD )
 
