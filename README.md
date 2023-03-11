@@ -10,11 +10,11 @@
 
 | Back-end | Front-end | Databases | Testing Tools | Real-Time Protocols |
 | ------------ | ------------ | ------------ | ------------- | ----- |
-| Node.Js + Express.Js | Next.JS + React + Redux + Typescript | PostgreSQL | Mocha | Web-Sockets
+| Node.Js + Express.Js | Next.JS + React + Redux + React Context + Typescript | PostgreSQL | Mocha | Web-Sockets
 | Nest.Js + Express.Js + Typescript | Gatsby + React + Redux + Typescript | MySQL | Chai | MQTT (IOT devices)
 | Node.Js + Fastify.Js | Angular.Js | MongoDB | Sinon |
 | Nest.Js + Fastify.JS + Typescript | Vue.JS | DyanamoDB | Jest |
-| Rub on Rails 4 | HighCharts | GraphQL | Rspec |
+| Ruby on Rails 4 | HighCharts | GraphQL | Rspec |
 | Ruby on Rails 5 | Re-charts | Redis | Minitest |
 | Python (Django) | D3.Js | Memcachce | Cucumber |
 | Python (Flask) |  | Aurora | Cypress |
