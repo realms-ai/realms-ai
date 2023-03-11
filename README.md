@@ -14,10 +14,10 @@
 | Nest.Js + Express.Js + Typescript | Gatsby + React + Redux + Typescript | MySQL | Chai | MQTT (IOT devices)
 | Node.Js + Fastify.Js | Angular.Js | MongoDB | Sinon | Pub/Sub
 | Nest.Js + Fastify.JS + Typescript | Vue.JS | DyanamoDB | Jest | Kafka
-| Ruby on Rails 4 | HighCharts | GraphQL | Rspec | AWS Events
-| Ruby on Rails 5 | Re-charts | Redis | Minitest |
+| Ruby on Rails 4, 5, 6, 7 | HighCharts | GraphQL | Rspec | AWS Events
+| Python (Flask)  | Re-charts | Redis | Minitest |
 | Python (Django) | D3.Js | Memcachce | Cucumber |
-| Python (Flask) |  | Aurora | Cypress |
+||  | Aurora | Cypress |
 
 ## Certified AWS Cloud Practioner (Aiming to get **Professional** level certifications by this year end)
 
