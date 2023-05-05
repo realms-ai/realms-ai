@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-# Realms AI (Developing apps for more than **10 years**)
+# Realms AI (Developing scalable apps for Enterprises)
 
 - [Website](https://realmsai.com)
 
-## Full Stack **Javascript** & Ruby on Rails Developer
+## Full Stack **Javascript** Developer
 
 - Have Developed various **Full Stack** applications in
 
