@@ -27,7 +27,6 @@
 - Infrastructure ( ECS + Dockerization + CI/CD )
 
 
-
 ## 🔭 I’m currently working on 
   - IIOT and Factory Management Application 
     - Micro-services in JS, ROR and Python
@@ -43,6 +42,15 @@
   - React
   
 ## 📫 How to reach me info.realms.ai@gmail.com
+
+## Platforms from where you can hire me
+
+- [Toptal](https://www.toptal.com/resume/navpreet-singh)
+- [Turing](https://matching.turing.com/developer-resume-preview/67012b890551e9315837deceb6a271b0b2d2a2765225b5)
+- [People Per Hour](https://www.peopleperhour.com/freelancer/navpreet-singh-full-stack-developer-zazmjwax)
+- [Flexiple](https://app.flexiple.com/resume/1686760909751x504019498229036500)
+- [Arc Dev](https://arc.dev/@realmsai?preview=1)
+- [Gun.io](https://app.gun.io/app/freelancer/31c84972-5609-412a-a749-03f3b9e21147/)
 
 ---
 
