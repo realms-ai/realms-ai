@@ -53,10 +53,10 @@
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realms-ai&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Realms AI GitHub stats](https://github-readme-stats.vercel.app/api?username=realms-ai&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/realms-ai/github-readme-stats)
+[![Realms AI GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=realms-ai&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/realms-ai/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realms-ai&layout=compact&theme=vision-friendly-dark)](https://github.com/realms-ai/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=realms-ai&layout=compact&theme=vision-friendly-dark)](https://github.com/realms-ai/github-readme-stats)
 
 
 <!--
