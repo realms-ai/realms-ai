@@ -44,9 +44,9 @@
 ## 📫 How to reach me info.realms.ai@gmail.com
 
 ## Platforms from where you can hire me
-
-- [Toptal](https://www.toptal.com/resume/navpreet-singh)
-- [Arc Dev](https://arc.dev/@realmsai?preview=1)
+- [Register on Toptal](https://topt.al/egcBZ6) to [Hire me from Toptal](https://www.toptal.com/resume/navpreet-singh) 
+- [Hire me from Arc Dev](https://arc.dev/@realmsai?preview=1)
+- [Register on People Per Hour](https://www.peopleperhour.com/site/register?rfrd=10187603.5) to [Hire me on PPH](https://www.peopleperhour.com/freelancer/navpreet-singh-full-stack-developer-zazmjwax)
 
 ---
 
