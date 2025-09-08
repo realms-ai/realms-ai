@@ -1,10 +1,13 @@
 ### Hi there 👋
-
+# 👋 Welcome to Realms AI
 # Realms AI (Developing scalable apps for Enterprises)
 
-- [Website](https://realmsai.com)
+🌐 Website → [realmsai.com](https://realmsai.com)  
+📩 Contact → info@realmsai.com  
 
-## Full Stack **Javascript** Developer
+We build **enterprise-grade AI products** that deliver measurable impact in **weeks, not months**.  
+
+## Full Stack Development
 
 - Have Developed various **Full Stack** applications in
 
@@ -19,30 +22,23 @@
 | Python (Django) | D3.Js | Memcachce | Cucumber |
 ||  | Aurora | Cypress |
 
-## Certified AWS Cloud Practioner (Aiming to get **Professional** level certifications by this year end)
 
-- Basics (EC2 + Load Balancer + S3 + Route53 + Certificate Manager)
-- Databases ( PostgreSQL + MySQL + MongoDB + DynamoDB + Aurora )
-- In-Progress (Kafka + Step Function + Lambda)
-- Infrastructure ( ECS + Dockerization + CI/CD )
+## 🚀 What We Do
+- **Workflow Automation** → Cut handling time by 30–70% with AI-driven intake, classification, and resolution.  
+- **AI Search & Knowledge** → Precise retrieval (95%+) across docs, wikis, and chats.  
+- **Predictive Analytics** → Forecast demand, risk, and anomalies with <10% error rates.  
+- **Custom AI Agents** → Context-aware, fast (<1.2s P95), and policy-compliant.  
+- **Generative Media** → Scale content pipelines with templates, guardrails, and review queues.  
 
+---
 
-## 🔭 I’m currently working on 
-  - IIOT and Factory Management Application 
-    - Micro-services in JS, ROR and Python
-    - Micro Front-end Architecture
-  - [Link](https://demo.thingsgosocial.com/Enquire?eID=n234) for Demo
+## 🤝 Get Involved
+We’re actively collaborating with partners and clients.  
+- ⭐ Star our repos to follow progress  
+- 🐛 Open issues for feature requests  
+- 📩 Reach out to start a 6-week pilot  
+
   
-## 🌱 I’m currently learning
-  - More **AWS** services for data science, machine learning and AI
-
-## 💬 Ask me about
-  - Nest.JS
-  - Next.JS
-  - React
-  
-## 📫 How to reach me info@realmsai.com
-
 ## :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=realms-ai&theme=dark&background=000000)](https://git.io/streak-stats)
 
