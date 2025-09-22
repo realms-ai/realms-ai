@@ -24,7 +24,7 @@ We build **enterprise-grade AI products** that deliver measurable impact in **we
 
 
 ## 🚀 What We Do
-- **Workflow Automation** → Cut handling time by 30–70% with AI-driven intake, classification, and resolution.  
+- **Workflow Automation** → Cut handling time by 30–70% with AI-driven intake, classification, and resolution.  (https://realmsai.com/solutions/workflow-automation)
 - **AI Search & Knowledge** → Precise retrieval (95%+) across docs, wikis, and chats.  
 - **Predictive Analytics** → Forecast demand, risk, and anomalies with <10% error rates.  
 - **Custom AI Agents** → Context-aware, fast (<1.2s P95), and policy-compliant.  
