@@ -24,11 +24,11 @@ We build **enterprise-grade AI products** that deliver measurable impact in **we
 
 
 ## 🚀 What We Do
-- **Workflow Automation** → Cut handling time by 30–70% with AI-driven intake, classification, and resolution.  (https://realmsai.com/solutions/workflow-automation)
-- **AI Search & Knowledge** → Precise retrieval (95%+) across docs, wikis, and chats.  
-- **Predictive Analytics** → Forecast demand, risk, and anomalies with <10% error rates.  
-- **Custom AI Agents** → Context-aware, fast (<1.2s P95), and policy-compliant.  
-- **Generative Media** → Scale content pipelines with templates, guardrails, and review queues.  
+- **Workflow Automation** → Cut handling time by 30–70% with AI-driven intake, classification, and resolution. (https://realmsai.com/solutions/workflow-automation)
+- **AI Search & Knowledge** → Precise retrieval (95%+) across docs, wikis, and chats. (https://realmsai.com/solutions/ai-search-knowledge)
+- **Predictive Analytics** → Forecast demand, risk, and anomalies with <10% error rates. (https://realmsai.com/solutions/predictive-analytics)
+- **Custom AI Agents** → Context-aware, fast (<1.2s P95), and policy-compliant. (https://realmsai.com/solutions/ai-agents)
+- **Generative Media** → Scale content pipelines with templates, guardrails, and review queues. (https://realmsai.com/solutions/generative-media) 
 
 ---
 
